@@ -11,7 +11,10 @@ class CV():
         self.addres = "Oslo 0756, Ekraveien 39c"
 
     def skills(self):
-        return f"ALL TOOSLS for Python junior"
+        git = 'GIT'
+        sql = 'SQL'
+        flask = 'Flask'
+        return f"ALL TOOSLS for Python and little more\n{git}\n{sql}\n{flask}"
 
     def education(self):
         python: str = "August 2023 - skillbox" 
@@ -24,7 +27,7 @@ class CV():
     def languge(self):
         Norwegian_nynorsk: List =[
             Written: Beginner,
-            Oral: Beginner
+            Oral: Adwancer
             ]
 
         English: List = [
