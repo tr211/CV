@@ -8,7 +8,7 @@ class CV():
         self.name = "Andrei"
         self.last_name = "Gavrilov"
         self.phene = 46222695
-        self.addres = "Oslo 0756, Ekraveien 39c"
+        self.addres = "Oslo"
 
     def skills(self):
         git = 'GIT'
